@@ -1,3 +1,6 @@
+
+```.py
+# Binary with 0 and 1 is good, but binary with only 0, or almost, is even better! Write a program that takes an incoming message as input and displays as output the message encoded using this method.
 class unaryencoder:
     def __init__(self, userbinary):
         self.userbinary = str(userbinary)
@@ -17,3 +20,5 @@ class unaryencoder:
 
 print(unaryencoder(1000011).encode())
 print(unaryencoder(1111011).encode())
+```
+![](quizpic_49.png)
