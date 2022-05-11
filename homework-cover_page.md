@@ -158,3 +158,7 @@ Fig 2. What the menu item looks like when the cursor hovers over it
 
 ![](cover_page3.png)
 Fig 3. What the button item looks like when the cursor hovers over it
+
+### Resource used when creating the cover page
+
+https://www.youtube.com/watch?v=PgAZ8KzfhO8
